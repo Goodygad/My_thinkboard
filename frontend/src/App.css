@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* 1. Register the forest theme inside the daisyui plugin block */
+@plugin "daisyui" {
+  themes: forest --default;
+}
